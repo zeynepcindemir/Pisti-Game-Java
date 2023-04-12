@@ -1,10 +1,4 @@
 
-
-/*
-YAP441 - Ara Sinav
-Zeynep Cindemir (201401012)
-*/
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
